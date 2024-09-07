@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Estamos en la rama main
+=======
+Estamos en la rama desviacion
+>>>>>>> desviacion
 
 asdasdasd
 
